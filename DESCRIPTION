@@ -21,5 +21,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Config/ErythroWorkbench/engineVersion: EryWB v4.1 (2026-11-17)
 Config/ErythroWorkbench/refsBuiltAt: 2026-11-12 17:02:53
-URL: https://erythromics.cn
-BugReports: https://github.com/OuLab-BioMed/EIOD-EryWB/issues
+URL: https://github.com/OuLab-BioMed/ErythroWorkbench,
+    https://erythromics.cn
+BugReports: https://github.com/OuLab-BioMed/ErythroWorkbench/issues
