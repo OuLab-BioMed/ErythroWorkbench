@@ -1,0 +1,13 @@
+pathway_id	name_cn	name_en	category	description	gene_count	metabolite_count	ref
+glycolysis	糖酵解	Glycolysis	metabolism	红细胞主要ATP来源，葡萄糖→丙酮酸→乳酸，维持膜离子泵和变形性	12	10	[1] Goodman SR, Kurdia A, Bhunia A, et al. The human red blood cell proteome and interactome. Exp Biol Med (Maywood). 2007;232(11):1391-1408
+ppp	磷酸戊糖途径	Pentose Phosphate Pathway	metabolism	产生NADPH维持谷胱甘肽还原态，对抗氧化应激；G6PD为限速酶	7	8	[3] Beutler E. G6PD deficiency. Blood 1994;84(11):3613-3636
+purine_metabolism	嘌呤代谢	Purine Metabolism	metabolism	红细胞嘌呤补救合成途径，HPRT/ADA缺陷导致Lesch-Nyhan和免疫缺陷	8	7	[15] Seegmiller JE, Rosenbloom FM, Kelley WN. Enzyme defect associated with a sex-linked human neurological disorder and excessive purine synthesis. Science. 1967;155(3770):1682-1684
+iron_ferritinophagy	铁代谢/铁自噬	Iron Metabolism & Ferritinophagy	metabolism	铁摄取(TFRC)、储存(FTH1/FTL)、释放(NCOA4/SLC40A1)；铁死亡关键	8	5	[13] Ganz T. Blood 2011;117(17):4425-4433
+oxidative_antioxidant	氧化应激/抗氧化	Oxidative Stress & Antioxidant	signaling	SOD/CAT/GPX/PRDX系统清除ROS，维持RBC氧化还原稳态	12	4	[4] Lu SC. Regulation of glutathione synthesis. Mol Aspects Med. 2009;30(1-2):42-59
+glutathione	谷胱甘肽代谢	Glutathione Metabolism	metabolism	GSH合成与再生，GSR/GCLC/GCLM；NAC前体补充	8	5	[4] Lu SC. Regulation of glutathione synthesis. Mol Aspects Med. 2009;30(1-2):42-59
+membrane_cytoskeleton	膜骨架/变形性	Membrane Cytoskeleton & Deformability	structure	血影蛋白-锚蛋白-带3网络维持RBC双凹形态和变形性；HS相关	15	5	[8] Perrotta S, Gallagher PG, Mohandas N. Hereditary spherocytosis. Lancet 2008;372(9647):1411-1426
+lipid_metabolism	脂质代谢	Lipid Metabolism	metabolism	膜磷脂合成(PTDSS2)、脂肪酸代谢、脂噬与铁死亡交叉	10	4	[12] D'Alessandro A, et al. Blood 2025;145(7):765-783
+heme_metabolism	血红素合成/降解	Heme Synthesis & Degradation	metabolism	ALAS2→FECH血红素合成；HMOX1→BLVRA血红素降解	8	8	Ajioka RS, Phillips JD, Kushner JP. Biosynthesis of heme in mammals. Biochim Biophys Acta. 2006;1763(7):723-736. doi:10.1016/j.bbamcr.2006.05.005
+no_metabolism	一氧化氮代谢	Nitric Oxide Metabolism	signaling	RBC摄取NO，SNO-Hb转亚硝基，调节血管张力	8	4	[2] Stamler et al. Science 1997;276:2034-2037
+senescence_clearance	红细胞衰老/清除	RBC Senescence & Clearance	clearance	"CD47-SIRPα""别吃我""信号；CR1/C3b调理；PS外翻凋亡清除"	8	2	[21] Oldenborg PA, Zheleznyak A, Fang YF, et al. Role of CD47 as a marker of self on red blood cells. Science. 2000;288(5473):2051-2054
+complement	补体激活	Complement Activation	signaling	CD55/CD59衰变加速因子保护RBC免受补体攻击；PNH相关	10	4	[22] Parker et al. Exp Hematol 2007;35(4):523-533

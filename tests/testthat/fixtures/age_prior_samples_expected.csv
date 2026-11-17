@@ -1,0 +1,9 @@
+sample,position,senescence_score,score,zone
+RBC_1,3.25,81.2,0.02838,"{'key': 'ery_mature', 'zh': '红细胞（成熟）', 'en': 'erythrocyte, mature'}"
+RBC_2,2.75,68.8,0.01233,"{'key': 'ery_mature', 'zh': '红细胞（成熟）', 'en': 'erythrocyte, mature'}"
+RBC_3,3.75,93.8,0.09261,"{'key': 'ery_old', 'zh': '红细胞（衰老）', 'en': 'erythrocyte, old'}"
+PBMC_1,1.75,43.8,0.00243,"{'key': 'ery_young', 'zh': '红细胞（年轻）', 'en': 'erythrocyte, young'}"
+PBMC_2,2.25,56.2,0.00764,"{'key': 'ery_young', 'zh': '红细胞（年轻）', 'en': 'erythrocyte, young'}"
+PBMC_3,1.25,31.2,-0.00392,"{'key': 'retic_mature', 'zh': '网织红（成熟）', 'en': 'reticulocyte, mature'}"
+D8_1,0.75,18.8,-0.05993,"{'key': 'retic_mature', 'zh': '网织红（成熟）', 'en': 'reticulocyte, mature'}"
+D8_3,0.25,6.2,-0.07954,"{'key': 'retic_young', 'zh': '网织红（年轻）', 'en': 'reticulocyte, young'}"

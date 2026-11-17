@@ -1,0 +1,44 @@
+{
+ "ok": true,
+ "unverifiable": true,
+ "reason_code": "",
+ "n_hit": 84,
+ "n_directional": 52,
+ "n_context_only": 32,
+ "coverage": 0.8387,
+ "direction_agreement": 0.4264,
+ "n_tier_a": 2,
+ "n_tier_b": 50,
+ "feature_loo_r2": 0.3185,
+ "confidence": 0.5398,
+ "grade": "low",
+ "confidence_parts": {
+  "coverage": 0.8387,
+  "direction_agreement": 0.4264,
+  "feature_loo_r2": 0.3185,
+  "score_sd": 0.04941,
+  "n_samples": 8
+ },
+ "diagnostics": {
+  "r2": 0.4355,
+  "loo_r2": 0.3185,
+  "stage_recovery_rho": 1.0,
+  "beta": [
+   0.1066,
+   -0.5412,
+   -0.5208,
+   0.5597,
+   1.1747
+  ],
+  "directions": {
+   "chain": -0.3364717275557569,
+   "unsat": -0.5498951302275578,
+   "pc_frac": -0.939267516743565,
+   "pe_frac": -0.9199168847590886,
+   "sm_frac": 0.9300158898799248,
+   "stage_marker": 1.0,
+   "context": 0.0
+  },
+  "permutation_p": 0.000999000999000999
+ }
+}

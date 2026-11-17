@@ -1,0 +1,67 @@
+pathway_id	metabolite_name	hmdb_id	kegg_id
+glycolysis	Glucose	HMDB0000122	C00031
+glycolysis	Glucose-6-phosphate	HMDB0000140	C00668
+glycolysis	Fructose-6-phosphate	HMDB0000151	C00085
+glycolysis	Fructose-1,6-bisphosphate	HMDB0000152	C00354
+glycolysis	Glyceraldehyde-3-phosphate	HMDB0000153	C00118
+glycolysis	1,3-Bisphosphoglycerate	HMDB0000154	C00236
+glycolysis	Phosphoenolpyruvate	HMDB0000156	C00074
+glycolysis	Pyruvate	HMDB0000243	C00022
+glycolysis	Lactate	HMDB0000190	C00186
+glycolysis	ATP	HMDB0000538	C00002
+ppp	Glucose-6-phosphate	HMDB0000140	C00668
+ppp	6-Phosphogluconolactone	HMDB0000161	C00197
+ppp	6-Phosphogluconate	HMDB0000162	C00348
+ppp	Ribulose-5-phosphate	HMDB0000163	C00117
+ppp	Ribose-5-phosphate	HMDB0000164	C00115
+ppp	Xylulose-5-phosphate	HMDB0000165	C00231
+ppp	NADPH	HMDB0000005	C00005
+ppp	NADP+	HMDB0000215	C00006
+purine_metabolism	Hypoxanthine	HMDB0000157	C00262
+purine_metabolism	Xanthine	HMDB0000292	C00385
+purine_metabolism	Uric acid	HMDB0000289	C00366
+purine_metabolism	Inosine	HMDB0000183	C00294
+purine_metabolism	Adenosine	HMDB0000050	C00212
+purine_metabolism	AMP	HMDB0000049	C00020
+purine_metabolism	Guanine	HMDB0000132	C00242
+iron_ferritinophagy	Fe2+ (ferrous iron)		C14818
+iron_ferritinophagy	Fe3+ (ferric iron)		C00004
+iron_ferritinophagy	Heme	HMDB0000428	C00032
+iron_ferritinophagy	Ferritin	HMDB0000144	
+iron_ferritinophagy	Transferrin	HMDB0000184	
+oxidative_antioxidant	Superoxide anion		C00059
+oxidative_antioxidant	Hydrogen peroxide	HMDB0000312	C00027
+oxidative_antioxidant	ROS (reactive oxygen species)		
+oxidative_antioxidant	Malondialdehyde (MDA)	HMDB0003344	C03050
+glutathione	Glutathione (GSH)	HMDB0000125	C00051
+glutathione	Glutathione disulfide (GSSG)	HMDB0000224	C00127
+glutathione	Cysteine	HMDB0000353	C00097
+glutathione	Glycine	HMDB0000123	C00037
+glutathione	Glutamate	HMDB0000148	C00025
+heme_metabolism	Glycine	HMDB0000123	C00037
+heme_metabolism	Succinyl-CoA	HMDB0000187	C00091
+heme_metabolism	5-Aminolevulinate (ALA)	HMDB0001152	C00743
+heme_metabolism	Porphobilinogen	HMDB0001153	C00987
+heme_metabolism	Protoporphyrin IX	HMDB0000515	C02185
+heme_metabolism	Bilirubin	HMDB0000562	C00193
+heme_metabolism	Biliverdin	HMDB0000563	C00486
+heme_metabolism	Heme	HMDB0000428	C00032
+no_metabolism	Nitric oxide (NO)	HMDB0000338	C00681
+no_metabolism	S-Nitrosothiol (SNO)		
+no_metabolism	Nitrite	HMDB0000132	C00088
+no_metabolism	Nitrate	HMDB0000133	C00244
+membrane_cytoskeleton	Phosphatidylserine (PS)	HMDB0000249	C00689
+membrane_cytoskeleton	Phosphatidylethanolamine (PE)	HMDB0000248	C00350
+membrane_cytoskeleton	Phosphatidylcholine (PC)	HMDB0000178	C00157
+membrane_cytoskeleton	Sphingomyelin	HMDB0000250	C00550
+membrane_cytoskeleton	Cholesterol	HMDB0000067	C00187
+lipid_metabolism	Arachidonic acid	HMDB0001043	C00219
+lipid_metabolism	Linoleic acid	HMDB0000067	C01595
+lipid_metabolism	Palmitic acid	HMDB0000222	C00249
+lipid_metabolism	Triglyceride	HMDB0000519	C00422
+senescence_clearance	Phosphatidylserine (PS)	HMDB0000249	C00689
+senescence_clearance	Calreticulin	HMDB0000203	
+complement	C3b		
+complement	C4b		
+complement	C5a		
+complement	Membrane attack complex (MAC)		

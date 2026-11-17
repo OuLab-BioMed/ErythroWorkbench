@@ -1,0 +1,115 @@
+pathway_id	gene_symbol	ensembl_id	role
+complement	C1QA	ENSG00000173372	C1q subcomponent
+complement	C3	ENSG00000125730	central complement component
+complement	C4A	ENSG00000244207	C4A
+complement	C4B	ENSG00000224389	C4B
+complement	CD46	ENSG00000117335	MCP membrane cofactor
+complement	CD55	ENSG00000196352	DAF decay-accelerating factor
+complement	CD59	ENSG00000085063	protectin; MAC inhibitor
+complement	CFH	ENSG00000000971	factor H
+complement	CFI	ENSG00000205403	factor I
+complement	CR1	ENSG00000203710	C3b/C4b receptor
+glutathione	GCLC	ENSG00000001084	rate-limiting synthesis
+glutathione	GCLM	ENSG00000023909	
+glutathione	GPX1	ENSG00000233276	peroxidase
+glutathione	GPX4	ENSG00000167468	lipid peroxide
+glutathione	GSR	ENSG00000104687	recycling
+glutathione	GSS	ENSG00000100983	glutathione synthetase
+glutathione	MGST1	ENSG00000008394	microsomal GST
+glutathione	TXN	ENSG00000136810	thioredoxin
+glycolysis	ALDOA	ENSG00000149925	
+glycolysis	ENO1	ENSG00000074800	
+glycolysis	GAPDH	ENSG00000111640	
+glycolysis	GPI	ENSG00000105220	
+glycolysis	HK1	ENSG00000156515	rate-limiting
+glycolysis	LDHA	ENSG00000134333	
+glycolysis	PFKL	ENSG00000141959	rate-limiting
+glycolysis	PFKM	ENSG00000152556	
+glycolysis	PGAM1	ENSG00000171314	
+glycolysis	PGK1	ENSG00000102144	
+glycolysis	PKLR	ENSG00000262785	rate-limiting (RBC isoform)
+glycolysis	TPI1	ENSG00000111669	
+heme_metabolism	ALAS2	ENSG00000158578	erythroid ALA synthase (rate-limiting)
+heme_metabolism	BLVRA	ENSG00000106605	biliverdin reductase A
+heme_metabolism	BLVRB	ENSG00000090013	biliverdin reductase B
+heme_metabolism	CPOX	ENSG00000080819	coproporphyrinogen oxidase
+heme_metabolism	FECH	ENSG00000066926	ferrochelatase
+heme_metabolism	HMOX1	ENSG00000100292	heme oxygenase-1
+heme_metabolism	HMOX2	ENSG00000103415	heme oxygenase-2
+heme_metabolism	UROS	ENSG00000188690	uroporphyrinogen III synthase
+iron_ferritinophagy	CP	ENSG00000047457	ceruloplasmin
+iron_ferritinophagy	FPN1	ENSG00000138449	alias of SLC40A1
+iron_ferritinophagy	FTH1	ENSG00000167996	ferritin heavy chain
+iron_ferritinophagy	FTL	ENSG00000087086	ferritin light chain
+iron_ferritinophagy	HEPH	ENSG00000089472	hephaestin
+iron_ferritinophagy	NCOA4	ENSG00000266412	ferritinophagy cargo receptor
+iron_ferritinophagy	SLC40A1	ENSG00000138449	ferroportin
+iron_ferritinophagy	TFRC	ENSG00000072274	transferrin receptor 1
+lipid_metabolism	ACSL1	ENSG00000151726	acyl-CoA synthetase
+lipid_metabolism	ATGL	ENSG00000177666	adipose triglyceride lipase
+lipid_metabolism	DGAT1	ENSG00000185000	diacylglycerol O-acyltransferase
+lipid_metabolism	FADS1	ENSG00000149485	fatty acid desaturase 1
+lipid_metabolism	FADS2	ENSG00000134824	fatty acid desaturase 2
+lipid_metabolism	HSL	ENSG00000079435	hormone-sensitive lipase
+lipid_metabolism	LPCAT3	ENSG00000111684	LPC acyltransferase (ferroptosis)
+lipid_metabolism	PLA2G7	ENSG00000146070	lipoprotein-associated phospholipase A2
+lipid_metabolism	PLIN2	ENSG00000147872	lipid droplet marker
+lipid_metabolism	PTDSS2	ENSG00000282367	phosphatidylserine synthase 2
+membrane_cytoskeleton	ANK1	ENSG00000029534	ankyrin-1
+membrane_cytoskeleton	AQP1	ENSG00000240583	aquaporin-1
+membrane_cytoskeleton	BSG	ENSG00000172270	basigin (CD147)
+membrane_cytoskeleton	CD47	ENSG00000196776	do-not-eat-me signal
+membrane_cytoskeleton	EPB41	ENSG00000159023	4.1R
+membrane_cytoskeleton	EPB42	ENSG00000166947	4.2
+membrane_cytoskeleton	GYPA	ENSG00000170180	glycophorin A
+membrane_cytoskeleton	GYPB	ENSG00000250361	glycophorin B
+membrane_cytoskeleton	GYPC	ENSG00000136732	glycophorin C
+membrane_cytoskeleton	GYPE	ENSG00000197465	glycophorin E
+membrane_cytoskeleton	RHAG	ENSG00000112077	Rh-associated glycoprotein
+membrane_cytoskeleton	SLC2A1	ENSG00000117394	GLUT1 glucose transporter
+membrane_cytoskeleton	SLC4A1	ENSG00000004939	Band3/AE1
+membrane_cytoskeleton	SPTA1	ENSG00000163554	alpha-spectrin
+membrane_cytoskeleton	SPTB	ENSG00000070182	beta-spectrin
+no_metabolism	ALB	ENSG00000163631	S-nitrosothiol reservoir [abundance-excluded: not a pathway-activity marker]
+no_metabolism	CA1	ENSG00000133742	carbonic anhydrase 1 [abundance-excluded: not a pathway-activity marker]
+no_metabolism	CA2	ENSG00000104267	carbonic anhydrase 2 [abundance-excluded: not a pathway-activity marker]
+no_metabolism	HBB	ENSG00000244734	S-nitroso Hb carrier [abundance-excluded: not a pathway-activity marker]
+no_metabolism	NOS2	ENSG00000007171	inducible NOS
+no_metabolism	ARG1	ENSG00000118520	arginase 1; L-arginine/NO bioavailability enzyme (scoreable)
+no_metabolism	ARG2	ENSG00000081181	arginase 2; L-arginine/NO bioavailability enzyme (scoreable)
+no_metabolism	NOS3	ENSG00000164867	endothelial NOS; NO synthesis enzyme (scoreable)
+oxidative_antioxidant	CAT	ENSG00000121691	catalase
+oxidative_antioxidant	GCLC	ENSG00000001084	gamma-glutamylcysteine ligase catalytic
+oxidative_antioxidant	GCLM	ENSG00000023909	regulatory
+oxidative_antioxidant	GPX1	ENSG00000233276	glutathione peroxidase 1
+oxidative_antioxidant	GPX4	ENSG00000167468	phospholipid GPX (ferroptosis)
+oxidative_antioxidant	GSR	ENSG00000104687	glutathione reductase
+oxidative_antioxidant	PRDX1	ENSG00000117450	
+oxidative_antioxidant	PRDX2	ENSG00000167815	abundant in RBC
+oxidative_antioxidant	PRDX3	ENSG00000165672	mitochondrial
+oxidative_antioxidant	PRDX6	ENSG00000117592	
+oxidative_antioxidant	SOD1	ENSG00000142168	Cu/Zn SOD
+oxidative_antioxidant	SOD2	ENSG00000291237	Mn SOD (mitochondria)
+ppp	G6PD	ENSG00000160211	rate-limiting
+ppp	PGD	ENSG00000142657	
+ppp	PGLS	ENSG00000130313	
+ppp	RPE	ENSG00000197713	
+ppp	RPIA	ENSG00000153574	
+ppp	TALDO1	ENSG00000177156	
+ppp	TKT	ENSG00000163931	
+purine_metabolism	ADA	ENSG00000196839	
+purine_metabolism	AK1	ENSG00000106992	
+purine_metabolism	APRT	ENSG00000198931	
+purine_metabolism	DCTD	ENSG00000129187	
+purine_metabolism	HPRT1	ENSG00000165704	Lesch-Nyhan gene
+purine_metabolism	NT5E	ENSG00000135318	CD73
+purine_metabolism	PNP	ENSG00000198805	
+purine_metabolism	UMP-CMPK	ENSG00000162368	
+senescence_clearance	B2M	ENSG00000166710	MHC class I light chain
+senescence_clearance	CD47	ENSG00000196776	do-not-eat-me
+senescence_clearance	CR1	ENSG00000203710	complement receptor 1 (C3b/C4b)
+senescence_clearance	CXCL12	ENSG00000107562	SDF-1
+senescence_clearance	FAS	ENSG00000026103	Fas receptor
+senescence_clearance	LGALS3	ENSG00000131981	galectin-3
+senescence_clearance	PSEN1	ENSG00000080815	phosphatidylserine exposure
+senescence_clearance	SIRPA	ENSG00000198053	SIRPα (CD47 ligand)

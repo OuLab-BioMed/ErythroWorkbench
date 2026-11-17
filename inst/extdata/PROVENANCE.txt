@@ -1,0 +1,16 @@
+# ErythroWorkbench reference bundle
+exported_at: 2026-11-17 23:42:02
+engine_version: EryWB v4.1 (2026-11-17)
+r_version: R version 4.3.1 (2023-06-16 ucrt)
+
+## source file fingerprints (md5)
+  layer_references.json            eb67c8810c1f1149d84860f2f4792b2f
+  reference_atlas.json             f4820721db972d5753c8dde61633af94
+  toolkit_refs.json                857ba450bbe2d99f7b5595243289e31f
+  pathways.tsv                     19a775e5571ba4f4fdc9271e70626a3b
+  pathway_genes.tsv                a8827ab7b639e81775361a7e0face12d
+  pathway_metabolites.tsv          1143fd6dc064181fddbc5537031b909c
+  lipid_regulators.tsv             63e239f11533ddbb894e6a371c70ee19
+  lipid_regulator_sources.tsv      3d3f1ee4cdbff4d0574c50816ac2afa8
+  matrix.tsv                       a3b6c63c6e68a83cf8f570068646d94e
+  lipid_maturation.json            874949ab5296530db8e478ede86d33d6

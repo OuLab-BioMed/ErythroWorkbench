@@ -1,0 +1,9 @@
+^data-raw$
+^\.github$
+^\.git$
+^\.gitignore$
+^\.Rproj\.user$
+^.*\.Rproj$
+^ErythroWorkbench\.tar\.gz$
+^\.Rcheck$
+^reports$

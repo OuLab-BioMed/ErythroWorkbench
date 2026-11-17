@@ -1,0 +1,38 @@
+{
+ "ok": false,
+ "unverifiable": true,
+ "reason_code": "too_few_priors",
+ "n_hit": 13,
+ "n_directional": 7,
+ "n_context_only": 6,
+ "coverage": 0.1129,
+ "direction_agreement": 0.1335,
+ "n_tier_a": 1,
+ "n_tier_b": 6,
+ "feature_loo_r2": 0.3185,
+ "confidence": null,
+ "grade": null,
+ "confidence_parts": null,
+ "diagnostics": {
+  "r2": 0.4355,
+  "loo_r2": 0.3185,
+  "stage_recovery_rho": 1.0,
+  "beta": [
+   0.1066,
+   -0.5412,
+   -0.5208,
+   0.5597,
+   1.1747
+  ],
+  "directions": {
+   "chain": -0.3364717275557569,
+   "unsat": -0.5498951302275578,
+   "pc_frac": -0.939267516743565,
+   "pe_frac": -0.9199168847590886,
+   "sm_frac": 0.9300158898799248,
+   "stage_marker": 1.0,
+   "context": 0.0
+  },
+  "permutation_p": 0.000999000999000999
+ }
+}

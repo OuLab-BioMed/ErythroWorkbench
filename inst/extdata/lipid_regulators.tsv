@@ -1,0 +1,98 @@
+gene	process	feature	effect	tier	source	note
+ELOVL1	fatty_acid_elongation	chain	1	B	S3	ELOVL1 elongates C20-C28 SFA/MUFA
+ELOVL2	fatty_acid_elongation	chain	1	B	S5	ELOVL2 elongates C20/C22 PUFA
+ELOVL3	fatty_acid_elongation	chain	1	B	S3	ELOVL3 elongates C20-C24 SFA/MUFA
+ELOVL4	fatty_acid_elongation	chain	1	B	S3	ELOVL4 makes C28-C38 VLC-PUFA
+ELOVL5	fatty_acid_elongation	chain	1	B	S3	ELOVL5 elongates C18/C20 PUFA
+ELOVL6	fatty_acid_elongation	chain	1	B	S5	ELOVL6 elongates C12-C16 SFA/MUFA
+ELOVL7	fatty_acid_elongation	chain	1	B	S5	ELOVL7 has broad C16-C22 activity
+HACD1	elongation_cycle	chain	1	B	S5	3-hydroxyacyl-CoA dehydratase in the four-step elongation cycle
+HACD2	elongation_cycle	chain	1	B	S5	3-hydroxyacyl-CoA dehydratase in the four-step elongation cycle
+HACD3	elongation_cycle	chain	1	B	S5	3-hydroxyacyl-CoA dehydratase in the four-step elongation cycle
+HACD4	elongation_cycle	chain	1	B	S5	3-hydroxyacyl-CoA dehydratase in the four-step elongation cycle
+TECR	elongation_cycle	chain	1	B	S5	enoyl-CoA reductase, final elongation step
+HSD17B12	elongation_cycle	chain	1	B	S5	3-ketoacyl-CoA reductase in elongation
+FASN	de_novo_lipogenesis	chain	1	B	S5	FASN builds C16 palmitate
+ACACA	de_novo_lipogenesis	chain	1	B	S5	malonyl-CoA donor for elongation and DNL
+ACOT1	acyl_CoA_hydrolysis	chain	-1	B	S5	thioesterase terminates acyl-CoA before elongation
+ACOT2	acyl_CoA_hydrolysis	chain	-1	B	S5	thioesterase terminates acyl-CoA before elongation
+ACOT7	acyl_CoA_hydrolysis	chain	-1	B	S5	thioesterase terminates acyl-CoA before elongation
+ACOX1	peroxisomal_beta_oxidation	chain	-1	B	S3	shortens very-long-chain acyl-CoA
+ACOX2	peroxisomal_beta_oxidation	chain	-1	B	S3	shortens branched/VLC acyl-CoA
+FADS1	desaturation	unsat	1	B	S3	Delta5 desaturase, PUFA biosynthesis
+FADS2	desaturation	unsat	1	B	S3	Delta6 desaturase, PUFA biosynthesis
+FADS3	desaturation	unsat	0	C	S5	function not established
+SCD	desaturation	unsat	1	B	S3	Delta9 SFA to MUFA
+SCD5	desaturation	unsat	1	B	S3	Delta9 desaturase isoform
+DEGS1	sphingolipid_desaturation	context	0	C	S5	sphingoid-base Delta4 desaturase; SM backbone not scored as a glycerolipid DB count
+DEGS2	sphingolipid_desaturation	context	0	C	S5	atypical desaturase; SM backbone not scored as a glycerolipid DB count
+LPCAT1	lands_acylation	unsat	-1	B	S4	prefers saturated/MUFA acyl-CoA (DPPC-type PC)
+LPCAT2	lands_acylation	unsat	0	C	S4	substrate preference context dependent
+LPCAT3	lands_acylation	unsat	1	B	S4	prefers PUFA acyl-CoA; KO lowers AA-containing PC/PE
+LPCAT4	lands_acylation	unsat	0	C	S4	MBOAT family, preference not fixed here
+MBOAT7	lands_acylation	unsat	1	B	S4	PI remodelling with arachidonoyl chains
+AGPAT3	lands_acylation	unsat	1	B	S4	DHA-containing phospholipid synthesis
+ACSL1	fatty_acyl_CoA_activation	unsat	0	C	S5	broad long-chain specificity
+ACSL3	fatty_acyl_CoA_activation	unsat	-1	B	S4	prefers MUFA
+ACSL4	fatty_acyl_CoA_activation	unsat	1	B	S4	prefers AA/AdA PUFA for Lands cycle
+ACSL5	fatty_acyl_CoA_activation	unsat	0	C	S5	broad specificity
+ACSL6	fatty_acyl_CoA_activation	unsat	1	B	S4	prefers DHA
+PLA2G4A	lands_deacylation	unsat	-1	B	S4	cPLA2 releases sn-2 PUFA
+PLA2G6	lands_deacylation	unsat	-1	B	S4	iPLA2 releases sn-2 acyl chains
+PLA2G7	lands_deacylation	unsat	-1	B	S4	Lp-PLA2 / PAF-AH releases oxidised sn-2 chains
+PLA2G15	lands_deacylation	unsat	-1	B	S4	lysosomal PLA2, sn-2 deacylation
+PNPLA8	lands_deacylation	unsat	-1	B	S4	iPLA2gamma, membrane phospholipid turnover
+PNPLA9	lands_deacylation	unsat	-1	B	S4	iPLA2beta, membrane phospholipid turnover
+PRDX6	lands_deacylation	unsat	-1	B	S4	peroxiredoxin-6 has PLA2 activity in the Lands cycle
+GPX4	oxidative_defence	context	0	C	S4	reduces phospholipid hydroperoxides, does not set chain length or DB count
+ALOX15	lipid_oxidation	context	0	C	S4	enzymatic PUFA oxidation; oxidative not biosynthetic direction
+ALOX12	lipid_oxidation	context	0	C	S4	enzymatic PUFA oxidation; oxidative not biosynthetic direction
+AIFM2	oxidative_defence	context	0	C	S4	ferroptosis suppressor, no direct acyl-chain assignment
+PCYT1A	kennedy_pc	pc_frac	1	B	S4	CCT, rate-limiting CDP-choline step
+PCYT1B	kennedy_pc	pc_frac	1	B	S4	CCT beta isoform
+CHKA	kennedy_pc	pc_frac	1	B	S4	choline kinase
+CHKB	kennedy_pc	pc_frac	1	B	S4	choline kinase beta
+CHPT1	kennedy_pc	pc_frac	1	B	S4	choline phosphotransferase
+CEPT1	kennedy_pc	pc_frac	1	B	S4	dual choline/ethanolamine phosphotransferase
+PCYT2	kennedy_pe	pe_frac	1	B	S4	CTP:phosphoethanolamine cytidylyltransferase
+ETNK1	kennedy_pe	pe_frac	1	B	S4	ethanolamine kinase
+ETNK2	kennedy_pe	pe_frac	1	B	S4	ethanolamine kinase isoform
+SELENOI	kennedy_pe	pe_frac	1	B	S4	EPT1 ethanolamine phosphotransferase
+PISD	kennedy_pe	pe_frac	1	B	S4	PS decarboxylase produces PE
+PTDSS1	kennedy_pe	pe_frac	1	B	S4	PS synthase 1 supplies PS for PE
+PTDSS2	kennedy_pe	pe_frac	1	B	S4	PS synthase 2 supplies PS for PE
+SPTLC1	sphingolipid_synthesis	sm_frac	1	B	S5	serine palmitoyltransferase
+SPTLC2	sphingolipid_synthesis	sm_frac	1	B	S5	serine palmitoyltransferase
+SPTLC3	sphingolipid_synthesis	sm_frac	1	B	S5	serine palmitoyltransferase subunit
+CERS1	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+CERS2	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+CERS3	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+CERS4	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+CERS5	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+CERS6	ceramide_synthesis	context	0	C	S5	isoform-specific acyl-chain length not assigned here
+SMPD1	sphingomyelin_breakdown	sm_frac	-1	B	S5	acid sphingomyelinase
+SMPD2	sphingomyelin_breakdown	sm_frac	-1	B	S5	neutral sphingomyelinase
+SMPD3	sphingomyelin_breakdown	sm_frac	-1	B	S5	neutral sphingomyelinase 2
+SMPD4	sphingomyelin_breakdown	sm_frac	-1	B	S5	neutral sphingomyelinase
+SGMS1	sphingomyelin_synthesis	sm_frac	1	B	S5	sphingomyelin synthase 1
+SGMS2	sphingomyelin_synthesis	sm_frac	1	B	S5	sphingomyelin synthase 2
+ASAH1	ceramide_breakdown	context	0	C	S5	ceramidase, no direct SM fraction direction
+UGCG	glycosphingolipid	context	0	C	S5	glucosylceramide synthase, not in the 45-species panel
+GBA	glycosphingolipid	context	0	C	S5	glucocerebrosidase, not in the 45-species panel
+VPS13A	lipid_transfer	stage_marker	-1	A	S1	lipid transfer protein present in reticulocytes/RBC, declines RY to old RBC
+TFRC	reticulocyte_marker	stage_marker	-1	A	S1	CD71 disappears within the first week of circulating life
+ABCA1	lipid_efflux	context	0	C	S1	cholesterol/phospholipid efflux, RBC maturation role not established
+ABCG1	lipid_efflux	context	0	C	S1	lipid efflux, RBC maturation role not established
+ABCB4	lipid_flopping	context	0	C	S1	PC floppase, RBC maturation role not established
+MFSD2A	lipid_transport	context	0	C	S1	lysolipid transport, RBC maturation role not established
+GLTP	lipid_transfer	context	0	C	S1	glycolipid transfer protein, RBC role not established
+OSBP	lipid_transfer	context	0	C	S1	oxysterol-binding protein, RBC role not established
+STARD3	lipid_transfer	context	0	C	S1	cholesterol transfer, RBC role not established
+ANO6	lipid_scrambling	context	0	C	S1	TMEM16F scramblase, PS exposure direction not fixed here
+XKR8	lipid_scrambling	context	0	C	S1	caspase-activated scramblase, apoptotic context
+TMEM30A	flippase_subunit	context	0	C	S1	CDC50A flippase subunit
+ATP8A1	aminophospholipid_flippase	context	0	C	S1	PS/PE flippase
+ATP11A	aminophospholipid_flippase	context	0	C	S1	PS/PE flippase
+ATP11C	aminophospholipid_flippase	context	0	C	S1	PS/PE flippase
+CD47	clearance_signal	context	0	C	S1	age-dependent changes reported, direction not fixed here
+SIRPA	clearance_signal	context	0	C	S1	CD47 receptor, direction not fixed here

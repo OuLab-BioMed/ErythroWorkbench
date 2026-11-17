@@ -1,0 +1,10 @@
+# Keep line endings identical across platforms: the package is checked on Linux
+# CI and authored on Windows, and a CRLF checkout makes R CMD check emit
+# "CRLF line endings" notes. Text stays LF everywhere.
+* text=auto eol=lf
+
+# R serialised objects and gzip fixtures are binary; never touch their bytes.
+*.rds binary
+*.gz  binary
+*.png binary
+*.jpg binary

@@ -1,0 +1,9 @@
+{
+ "seed": 20261117,
+ "n_background": 3000,
+ "engine_version": "EryWB v4.1 (2026-11-17)",
+ "datasets": {
+  "gse63703_subset.tsv.gz": "GSE63703 (mature RBC vs PBMC vs 8-day stored)"
+ },
+ "generated_by": "data-raw/make_fixtures.py"
+}

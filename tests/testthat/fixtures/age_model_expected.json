@@ -1,0 +1,23 @@
+{
+ "loso_mae": 0.24,
+ "loso_max": 1.0,
+ "loso_mae_pct": 6.0,
+ "loso_errors": [
+  0.0,
+  0.0,
+  0.1,
+  0.1,
+  -1.0
+ ],
+ "n_matched": 45,
+ "n_anchor": 45,
+ "tier_A": 46,
+ "tier_B": 0,
+ "n_ok": 5,
+ "n_refused": 0,
+ "median_position": 2.0,
+ "median_zone": "ery_young",
+ "n_young": 2,
+ "n_old": 2,
+ "n_between": 1
+}

@@ -1,0 +1,15 @@
+# R session / build artefacts
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+*.tar.gz
+reports/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Local library used when checking without touching the system library
+.rlib/

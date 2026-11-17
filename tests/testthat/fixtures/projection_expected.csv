@@ -1,0 +1,9 @@
+sample,label,probability,best_rho,entropy,abstain,n_markers
+RBC_1,ery_mature,1.0,1.0,0.0,,47
+RBC_2,ery_mature,1.0,1.0,0.0,,47
+RBC_3,ery_mature,1.0,1.0,0.0,,47
+PBMC_1,,,1.0,0.991,ambiguous,47
+PBMC_2,,,1.0,0.995,ambiguous,47
+PBMC_3,,,1.0,0.992,ambiguous,47
+D8_1,ery_progenitor,0.737,1.0,0.831,,47
+D8_3,,,1.0,0.919,ambiguous,47

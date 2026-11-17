@@ -1,0 +1,25 @@
+Package: ErythroWorkbench
+Type: Package
+Title: Sample Profiling for Erythrocyte Transcriptomics and Multi-Omics
+Version: 4.1.0
+Authors@R:
+    person(given = "Kaicheng", family = "Shen", email = "kaichengshen2@qq.com",
+           role = c("aut", "cre"))
+Description: Profiling the erythroid state of a sample before any modelling:
+    how much of the signal is erythroid, how far a unit has drifted from fresh,
+    where a sample sits on a maturation axis, which disease state its cells
+    resemble, and which pathways are perturbed. All reference quantities are
+    measured in house and shipped with the package, so scores reproduce the
+    companion web server bit for bit. Scores are rank agreement with an in-house
+    reference, not cell-count purity: mature red cells are enucleated.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Config/ErythroWorkbench/engineVersion: EryWB v4.1 (2026-11-17)
+Config/ErythroWorkbench/refsBuiltAt: 2026-11-12 17:02:53
+URL: https://erythromics.cn
+BugReports: https://github.com/OuLab-BioMed/EIOD-EryWB/issues
